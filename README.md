@@ -1,2 +1,2 @@
-# Machine-Learning-Projects
-In this repository you can find different methods and algorithms about machine learning and predictive models
+# InfluencersInSocialNetworks
+he goal of the challenge is to train a machine learning model which, for pairs of individuals, predicts the human judgement on who is more influential with high accuracy
